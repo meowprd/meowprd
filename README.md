@@ -1,1 +1,8 @@
-<img height="32" src="https://skillicons.dev/icons?i=lua,php,mysql,html,css,js,jquery,tailwind,ai,ps,vscode"/>  
+[![wakatime](https://wakatime.com/badge/user/304d528e-33ca-4fab-ad35-e00af9e85282.svg)](https://wakatime.com/@304d528e-33ca-4fab-ad35-e00af9e85282)
+
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
